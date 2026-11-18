@@ -21,6 +21,6 @@
 ### 🚀 Featured Project
 
 #### 🌿 [herbal-store](https://github.com/ZafarjonUzDev/herbal-store)
-Bilingual (UZ/RU) e-commerce web catalog and backend service built with a modular monolith architecture.
+Bilingual (UZ/RU) informational product web catalog and backend service built with a modular monolith architecture.
 - **Stack:** Python, Django, DRF, PostgreSQL, Docker, Nginx
 - **Highlights:** Relational data integrity, JWT/CSRF security, multi-language support, containerized deployment, and full endpoint verification via Swagger & Postman.
